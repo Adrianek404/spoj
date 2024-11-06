@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1111-SUMAN/1111-SUMAN.iml" filepath="$PROJECT_DIR$/1111-SUMAN/1111-SUMAN.iml" />
       <module fileurl="file://$PROJECT_DIR$/438-PRIME_T/438-PRIME_T.iml" filepath="$PROJECT_DIR$/438-PRIME_T/438-PRIME_T.iml" />
+      <module fileurl="file://$PROJECT_DIR$/499-PA05_POT/499-PA05_POT.iml" filepath="$PROJECT_DIR$/499-PA05_POT/499-PA05_POT.iml" />
       <module fileurl="file://$PROJECT_DIR$/968-SUMA/968-SUMA.iml" filepath="$PROJECT_DIR$/968-SUMA/968-SUMA.iml" />
       <module fileurl="file://$PROJECT_DIR$/997-CALC/997-CALC.iml" filepath="$PROJECT_DIR$/997-CALC/997-CALC.iml" />
       <module fileurl="file://$PROJECT_DIR$/spoj.iml" filepath="$PROJECT_DIR$/spoj.iml" />
