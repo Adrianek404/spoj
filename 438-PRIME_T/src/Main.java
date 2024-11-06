@@ -33,3 +33,5 @@ public class Main {
         return true;
     }
 }
+// Zadanie wykonane poprawnie
+//https://pl.spoj.com/users/adrianek404/
