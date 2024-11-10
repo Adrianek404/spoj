@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1055-PP0602A/1055-PP0602A.iml" filepath="$PROJECT_DIR$/1055-PP0602A/1055-PP0602A.iml" />
       <module fileurl="file://$PROJECT_DIR$/1111-SUMAN/1111-SUMAN.iml" filepath="$PROJECT_DIR$/1111-SUMAN/1111-SUMAN.iml" />
       <module fileurl="file://$PROJECT_DIR$/1261-JPESEL/1261-JPESEL.iml" filepath="$PROJECT_DIR$/1261-JPESEL/1261-JPESEL.iml" />
       <module fileurl="file://$PROJECT_DIR$/1289-JHTMLLET/1289-JHTMLLET.iml" filepath="$PROJECT_DIR$/1289-JHTMLLET/1289-JHTMLLET.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1300-JSZYCER/1300-JSZYCER.iml" filepath="$PROJECT_DIR$/1300-JSZYCER/1300-JSZYCER.iml" />
       <module fileurl="file://$PROJECT_DIR$/1369-PPODST/1369-PPODST.iml" filepath="$PROJECT_DIR$/1369-PPODST/1369-PPODST.iml" />
       <module fileurl="file://$PROJECT_DIR$/438-PRIME_T/438-PRIME_T.iml" filepath="$PROJECT_DIR$/438-PRIME_T/438-PRIME_T.iml" />
       <module fileurl="file://$PROJECT_DIR$/499-PA05_POT/499-PA05_POT.iml" filepath="$PROJECT_DIR$/499-PA05_POT/499-PA05_POT.iml" />
